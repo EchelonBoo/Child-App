@@ -1,0 +1,40 @@
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\betha\Desktop\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\betha\Desktop\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\betha\Desktop\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\betha\Desktop\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\Bethany\OneDrive - Limerick Institute Of Technology\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\K00230399\OneDrive for Business\Year 2\Semester 2\Application Development\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.exe
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.pdb
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe.config
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\bin\Debug\Lab03.exe
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\bin\Debug\Lab03.pdb
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.Form1.resources
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.GenerateResource.cache
+C:\Users\betha\Downloads\Lab03\Lab03\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
